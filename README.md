@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victorlissoviy
-- 👀 I’m interested in python c++ c java 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python c++ c java
+- 👀 I’m interested in python java 
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on java
 - 📫 How to reach me victor.lissoviy.93@gmail.com
 
 <!---
